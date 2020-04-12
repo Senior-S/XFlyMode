@@ -1,0 +1,2 @@
+# XFlyMode
+Permission: xflymode.use
