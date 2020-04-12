@@ -1,2 +1,2 @@
 # XFlyMode
-Permission: xflymode.use
+Permission: flymode.use
